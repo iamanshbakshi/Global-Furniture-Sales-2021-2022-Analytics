@@ -1,0 +1,11 @@
+global furniture sales
+
+link
+https://app.powerbi.com/reportEmbed?reportId=7cd1a493-ddf8-4c62-b532-2b79e84c81a5&autoAuth=true&ctid=0ed51ad7-52cc-4234-b54a-76b82d40b5c3
+
+html
+
+<iframe title="Ansh-Big-shop-sales-data-analysis" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=7cd1a493-ddf8-4c62-b532-2b79e84c81a5&autoAuth=true&ctid=0ed51ad7-52cc-4234-b54a-76b82d40b5c3" frameborder="0" allowFullScreen="true"></iframe>
+
+ppt link
+https://app.powerbi.com/groups/me/reports/7cd1a493-ddf8-4c62-b532-2b79e84c81a5/e614335201095b5b6b00?bookmarkGuid=7c32a92e-86c1-40ed-9e5b-d1601259f92f&bookmarkUsage=1&ctid=0ed51ad7-52cc-4234-b54a-76b82d40b5c3&portalSessionId=62fb89ce-f060-486c-9cd0-529a7bc46937&fromEntryPoint=export
